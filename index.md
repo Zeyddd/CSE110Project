@@ -5,6 +5,8 @@
 <img src="IMG_2930.jpeg" alt="My nice smile" width="150" align="right">
 
 A third year international Math-CS major at UCSD who's interested in AI. Originating from Saudi, I've always had a passion when it came to computers, whether it be software or hardware, so I grew up with computers *all around* me\. 
+
+[Programming experience](https://github.com/Zeyddd/CSE110Project/blob/VSCode-UI/index.md#programming-experience)
 \
 \
 \
